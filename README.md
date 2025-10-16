@@ -1,3 +1,1 @@
-# hello-world
-
-Salut les bébés chèvres, comment ça va bien ?
+Hi, I'm Alexis, service and product designer passionate about music and mental health. I also love coding since I'm 10. I'm here to craft some apps to share my music and mental health tools and techniques that helped me a lot when I experienced hard times. Feel free to reach me if you want to talk. I'm from Strasbourg, France and currently based in Paris, France.
